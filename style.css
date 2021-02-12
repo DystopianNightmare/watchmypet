@@ -49,15 +49,6 @@
 	background-color:#3b3a3a;
 	color:white;
 }
-.bottom{
-	position: fixed;
-	left: 10%;
-	bottom: 0;  
-	width: 80%;
-	background-color: #3b3a3a; 
-	text-align: center;
-	height:10vh;
-}
 .column {
 	float: left;
 }
@@ -83,6 +74,15 @@
 	content: "";
   display: table;
   clear: both;
+}
+.bottom{
+	position: fixed;
+	left: 10%;
+	bottom: 0;  
+	width: 80%;
+	background-color: #3b3a3a; 
+	text-align: center;
+	height:10vh;
 }
 .bottom a {
 	 color: white;

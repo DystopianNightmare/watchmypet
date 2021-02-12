@@ -3,6 +3,7 @@
 <html>
 <head>
 <link href="style.css" type="text/css" rel="stylesheet" />
+<link rel="shortcut icon" type="image/jpg/png" href="cat.png"/>
 </head>
 <body>
 
