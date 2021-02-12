@@ -15,11 +15,10 @@
 
 <div class ="nav">
 	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="signup.html">Sign Up</a></li>
-		<li><a href="mypet.html">My Pet</a></li>
-		<li><a href="invite.html">Invite Someone</a></li>
-		
+		<li><a href="index.php">Home</a></li>
+		<li><a href="signup.php">Sign Up</a></li>
+		<li><a href="mypet.php">My Pet</a></li>
+		<li><a href="invite.php">Invite Someone</a></li>
 		<div class="login">
 			<div class="logintext">Login to see your pet!</div>
 			<form method="post" action="login.php">
@@ -44,8 +43,8 @@
 </div>
 
 <div class ="bottom"> 
-<a href="contactus.html">Contact Us</a>
-<a href="aboutus.html">About Us</a>
+<a href="contactus.php">Contact Us</a>
+<a href="aboutus.php">About Us</a>
 
 </div>
 

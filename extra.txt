@@ -1,0 +1,35 @@
+<!--
+#wondertext{
+	text-align: left;
+	font-style: italic;
+	max-width: 40%
+	
+}
+#main_section{
+	
+	border: 11px solid black;
+	
+	
+	}
+#livestream{
+	border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+-->
+
+<!--
+<h1>Watch My Pet</h1>
+
+
+<div id="main_section">
+	<div id ="wonder">
+	<p id="wondertext">Ever Wonder what you pet does at home when you are not around? Well now you can check up on them from anywhere.</p>
+	</div>
+	
+	<div id ="livestream" >
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Tp2CWeyvju8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 	allowfullscreen></iframe>
+	</div>
+</div>
+-->
