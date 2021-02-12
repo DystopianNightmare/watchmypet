@@ -34,8 +34,8 @@
 <div class="middlesection">
 <div class ="column left"></div>
 <div class ="column middle">
-<p id="wondertext">Ever Wonder what you pet does at home when you are not around? Well now you can check up on them from anywhere.</p>
-<p id="wondertext">Sign up now</p>
+<p id="signupLeft">Ever Wonder what you pet does at home when you are not around? Well now you can check up on them from anywhere.</p>
+<p id="signupLeft">Sign up now</p>
 </div>
 <div class ="column right"> <p id="meetmycat">Sign up</p>
 
