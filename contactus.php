@@ -32,14 +32,13 @@
 </div>
 
 <div class="middlesection">
-<div class ="column left"></div>
+<div class ="column left">
+</div>
 <div class ="column middle">
-
 </div>
 <div class ="column right"> 
 <h1 id="contactText">We would love to hear from you!</h1>
 <h3 id="contactSend">Send us a message</h3>
-
 <form method="post">
 	<textarea id="box" name="box" rows="4" cols="50">
 	</textarea>
@@ -50,17 +49,9 @@
 </div>
 </div>
 </div>
-
 <div class ="bottom"> 
 <a href="contactus.php">Contact Us</a>
 <a href="aboutus.php">About Us</a>
-
 </div>
-
-
-
 </body>
 </html>
-
-
-

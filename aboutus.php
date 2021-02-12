@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,12 +6,10 @@
 </head>
 <body>
 
-
 <div class = "body">
 <div class="mainleft"></div>
 <div class="mainright"></div>
 <div class ="top"><img src="header.png" alt="Italian Trulli"></div>
-
 
 <div class ="nav">
 	<ul>
@@ -32,9 +29,9 @@
 </div>
 
 <div class="middlesection">
-<div class ="column left"></div>
+<div class ="column left">
+</div>
 <div class ="column middle">
-
 </div>
 <div class ="column right"> \
 <h1 id="aboutWhoWeAre">Who we are</h1>
@@ -43,17 +40,9 @@
 </div>
 </div>
 </div>
-
 <div class ="bottom"> 
 <a href="contactus.php">Contact Us</a>
 <a href="aboutus.php">About Us</a>
-
 </div>
-
-
-
 </body>
 </html>
-
-
-

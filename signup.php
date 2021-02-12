@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,12 +6,10 @@
 </head>
 <body>
 
-
 <div class = "body">
 <div class="mainleft"></div>
 <div class="mainright"></div>
 <div class ="top"><img src="header.png" alt="Italian Trulli"></div>
-
 
 <div class ="nav">
 	<ul>
@@ -32,7 +29,8 @@
 </div>
 
 <div class="middlesection">
-<div class ="column left"></div>
+<div class ="column left">
+</div>
 <div class ="column middle">
 <p id="signupLeft">Ever Wonder what you pet does at home when you are not around? Well now you can check up on them from anywhere.</p>
 <p id="signupLeft">Sign up now</p>
@@ -66,26 +64,15 @@
 </tr>
 </table>
 <br>
-	<input type="submit" formaction="signupform.php" value="Submit">
-
+		<input type="submit" formaction="signupform.php" value="Submit">
 </form>
 </div>
-
-
 </div>
 </div>
 </div>
-
 <div class ="bottom"> 
 <a href="contactus.php">Contact Us</a>
 <a href="aboutus.php">About Us</a>
-
 </div>
-
-
-
 </body>
 </html>
-
-
-
