@@ -37,7 +37,7 @@
 
 </div>
 <div class ="column right"> 
-<h1 id="contactLeftText">We would love to hear from you!</h1>
+<h1 id="contactText">We would love to hear from you!</h1>
 <h3 id="contactSend">Send us a message</h3>
 
 <form method="post">

@@ -35,8 +35,8 @@
 <div class="middlesection">
 <div class ="column left"></div>
 <div class ="column middle">
-<p id="InviteMiddle">Now you can share your pet livestream with anyone!</p>
-<p id="InviteMiddle2">Simply enter their email in the box on the right</p>
+<p id="InviteMiddleP">Now you can share your pet livestream with anyone!</p>
+<p id="InviteMiddleP2">Simply enter their email in the box on the right</p>
 </div>
 <div class ="column right"> <p id="invitesomeone">Enter their email to give someone access to view your pet.</p>
 

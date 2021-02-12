@@ -36,7 +36,7 @@
 <div class ="column middle">
 
 </div>
-<div class ="column right"> <p id="mypetsignin">Sign in above to see your pet</p>
+<div class ="column right"> <p id="mypetsignintext">Sign in above to see your pet</p>
 
 </div>
 </div>
