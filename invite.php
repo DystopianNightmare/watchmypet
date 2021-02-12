@@ -38,7 +38,7 @@
 <p id="inviteMiddleP">Now you can share your pet livestream with anyone!</p>
 <p id="inviteMiddleP2">Simply enter their email in the box on the right</p>
 </div>
-<div class ="inviteRight"> <p id="invitesomeone">Enter their email to give someone access to view your pet.</p>
+<div class ="column right"> <p id="invitesomeone">Enter their email to give someone access to view your pet.</p>
 
 <form method="post">
 	<input type="text" placeholder="Enter Their Email" name="inviteemail">
@@ -53,6 +53,9 @@
 <a href="aboutus.php">About Us</a>
 
 </div>
+
+
+
 </body>
 </html>
 

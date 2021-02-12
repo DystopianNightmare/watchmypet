@@ -38,7 +38,8 @@
 </div>
 <div class ="column right"> \
 <h1 id="aboutWhoWeAre">Who we are</h1>
-<p id="aboutWhoWeAreText"> Hey There! </p><p id="whoWeAreText"> My name is Josh and I am a student who recently rescued a cat. The poor little kitty has PTSD and spends most of her life under my bed. Sometimes when I am away I want to check on her. This gave me the idea to make a livestreaming website so I can check on her from anywhere. </p>
+<p id="aboutWhoWeAreText"> Hey There! </p>
+<p id="aboutWhoWeAreText"> My name is Josh and I am a student who recently rescued a cat. The poor little kitty has PTSD and spends most of her life under my bed. Sometimes when I am away I want to check on her. This gave me the idea to make a livestreaming website so I can check on her from anywhere. </p>
 </div>
 </div>
 </div>
