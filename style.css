@@ -1,0 +1,167 @@
+.top{
+	background-color:#white;
+	width:80%;
+	height:10vh;
+	margin-left: auto;
+	margin-right: auto;
+}
+.top img{
+		width: 100%;
+    height: 10vh;
+	  margin-left: auto;
+  margin-right: auto;
+}
+.mainleft {
+	float:left;
+	width:10%;
+	height:65vh;
+}
+.mainright {
+	float:right;
+	width:10%;
+	height:65vh;
+}
+.middlesection {
+	width:80%;
+	height:70vh;
+	margin-left: auto;
+	margin-right: auto;
+}
+.body {
+	height:25vh;
+}
+.nav{
+	overflow: hidden;
+	background-color:#3b3a3a;
+	font-size: 18px;
+ 
+}
+.nav input[type=text] {
+	padding: 5px;
+  font-size: 14px;
+  width: 150px;
+}
+.nav .login {
+	float:right;
+	text-align:center;
+}
+.nav .logintext{
+	background-color:#3b3a3a;
+	color:white;
+}
+.bottom{
+	position: fixed;
+	left: 10%;
+	bottom: 0;  
+	width: 80%;
+	background-color: #3b3a3a; 
+	text-align: center;
+	height:10vh;
+}
+.column {
+	float: left;
+}
+
+.column.left{
+	height:100%;
+
+	width: 10%;
+}
+.column.middle{
+	width: 25%;
+	height:100%;
+	
+}
+.column.right{
+	text-align:center;
+	
+	width: 65%;
+	height:100%;
+	display:block;
+}
+.body:after{
+	content: "";
+  display: table;
+  clear: both;
+}
+.bottom a {
+	 color: white;
+	padding-right :100px;
+	padding-left :100px;
+	    text-decoration: none;
+}
+iframe{
+	padding-top:1%;
+}
+ul {
+	list-style:none;
+	
+}
+li {
+	display:inline;
+	background-color:#3b3a3a;
+	float:left;
+}
+li a{
+	text-decoration: none;
+	text-align:center;
+	display:block;
+	color:white;
+	padding: 10px;
+}
+li a:hover:not(.active) {
+	background-color: black;
+}
+#meetmycat{
+	text-align:center;
+}
+#wondertext{
+	text-align:center;
+	padding-right :20px;
+	padding-left :20px;
+	padding-top :10%;
+}
+#whoWeAre {
+	text-align:center;
+	padding-top :10%;
+}
+#whoWeAreText {
+	text-align:center;
+	padding-right :20%;
+	padding-left :20%;
+}
+#contactLeftText {
+	text-align:center;
+	padding-top :10%;
+}
+#homeLeft{
+	text-align:center;
+	padding-top :10%;
+}
+#mypetsignin {
+	text-align:center;
+	padding-top :10%;
+	font-size: 20px;
+}
+#InviteMiddle {
+	text-align:center;
+	padding-top :10%;
+	font-size: 20px;
+}
+#InviteMiddle2 {
+	text-align:center;
+	padding-top :4%;
+	font-size: 20px;
+}
+#invitesomeone {
+	text-align:center;
+	padding-top :10%;
+	font-size: 22px;
+}
+#signupright{
+	text-align:center;
+}
+#signuptable {
+	margin-left: auto;
+	margin-right: auto;
+}
